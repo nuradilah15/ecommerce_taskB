@@ -49,7 +49,7 @@ class HomeScreen extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            // GREETING & SEARCH
+            
             Padding(
               padding: const EdgeInsets.only(top: 40, left: 15, right: 15),
               child: Column(
