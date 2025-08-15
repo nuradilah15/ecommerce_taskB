@@ -35,7 +35,7 @@ class _ScreensState extends State<Screens>{
         ),
         child: SafeArea(
           child: Padding(
-            padding: EdgeInsets.symmetric(horizontal: 15, vertical: 8),
+            padding: EdgeInsets.symmetric(horizontal: 20, vertical: 12),
             child: GNav(
               rippleColor: Colors.grey[300]!,
               hoverColor: Colors.grey[100]!,
